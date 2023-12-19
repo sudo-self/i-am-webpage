@@ -1,18 +1,21 @@
 {
-    "short_name": "A Page",
-    "name": "This very document",
-    "description": "A detailed explanation of this document therefore manifest",
-    "icons": [
-    ｛
-    "src":"1.png",
-    "type": "image/png",
-    "sizes": "96x96"
-    ｝，
+  "name": "fork-and-go",
+  "short_name": "fng",
+  "start_url": "index.html",
+  "scope": "./",
+  "icons": [
     {
-    "start_url": "https://fork-and-go.pages.dev/manifest.json",
-    "display": "standalone",
-    "background_color": "#fff",
-    "theme_color" : "#000",
-    "scope" :”/“
-
-
+      "src": "contract.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "1.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#ffd31d",
+  "background_color": "#333",
+  "display": "standalone"
+}
