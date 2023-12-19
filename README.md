@@ -7,7 +7,7 @@
 
 This Empty Space to an interesting place
 
-By Jesse Roper
+By Jesse
 
 Let this be README.md
 
