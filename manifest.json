@@ -9,7 +9,7 @@
     "sizes": "96x96"
     ｝，
     {
-    "start_url": "https://fork-and-go.pages.dev/#",
+    "start_url": "https://fork-and-go.pages.dev/manifest.json",
     "display": "standalone",
     "background_color": "#fff",
     "theme_color" : "#000",
