@@ -5,7 +5,7 @@
   "scope": "./",
   "icons": [
     {
-      "src": "contract.png",
+      "src": "1.png",
       "sizes": "192x192",
       "type": "image/png"
     },
