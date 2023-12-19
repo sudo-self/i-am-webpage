@@ -1,0 +1,15 @@
+Last login: Tue Dec 19 00:07:48 on ttys002
+
+sudo touch index.html
+sudo touch style.css
+sudo touch script.js
+sudo touch manifest.json
+sudo touch myscript.js
+sudo touch README.md
+sudo touch 1.png
+
+
+sudo npm i
+sudo npm install --global sw-precache
+sw-precache
+sudo npm i @bubblewrap/cli

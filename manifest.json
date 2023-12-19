@@ -1,0 +1,17 @@
+{
+    "short_name": "A Page",
+    "name": "This very document",
+    "description": "A detailed explanation of this document therefore manifest",
+    "icons": [
+    ｛
+    "src":
+    "1.png",
+    "type": "image/png",
+    "sizes": "96x96"
+    ｝，
+    {
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#fff",
+    "theme_color" : "#000",
+    "scope" :”/“
