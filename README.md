@@ -18,7 +18,7 @@ sudo npm install --global sw-precache<br>
 sudo sw-precache<br>
 sudo npm i @bubblewrap/cli<br>
 
-###a android apk
+###a android apk>br>
 sudo bubblewrap init --manifest https://webpage.sudo-self.com/manifest.json<br>
 sudo bubblewrap build<br><br>
 ![Screenshot 2023-12-20 at 1 09 46 AM](https://github.com/sudo-self/i-am-webpage/assets/119916323/61fa2aed-906c-431e-95bc-14cd86dcaf3e)
