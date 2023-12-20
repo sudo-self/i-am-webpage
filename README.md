@@ -23,8 +23,8 @@ sudo bubblewrap init --manifest https://webpage.sudo-self.com/manifest.json<br>
 sudo bubblewrap build<br><br>
 ![Screenshot 2023-12-20 at 1 09 46 AM](https://github.com/sudo-self/i-am-webpage/assets/119916323/61fa2aed-906c-431e-95bc-14cd86dcaf3e)
 ![Screenshot 2023-12-19 at 11 18 06 PM](https://github.com/sudo-self/i-am-webpage/assets/119916323/0fcc1f79-7d03-4d64-8d24-0a3f47beb1c5)
-![APK](https://github.com/sudo-self/i-am-webpage/assets/119916323/aae73d57-1d7d-44ae-bfab-8696d87f9f65)
-![Webapp](https://github.com/sudo-self/i-am-webpage/assets/119916323/3d28f12b-1c15-4b51-88ef-8b0c0f95f825)
+![Screenshot 2023-12-20 at 1 32 13 AM](https://github.com/sudo-self/i-am-webpage/assets/119916323/0eea40c4-34d9-4c8b-ac62-49d46798fa4a)
+
 
 ### work while offline
 myscript.js  
