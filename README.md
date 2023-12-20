@@ -1,6 +1,6 @@
 # Hi! I'm Webpage 
 
-## html to PWA to APK
+## Webpage to PWA to APK
 sudo touch index.html<br>
 sudo touch style.css<br>
 sudo touch script.js<br>
@@ -15,9 +15,10 @@ sudo sw-precache<br>
 sudo npm i @bubblewrap/cli<br>
 sudo bubblewrap init --manifest https://webpage.sudo-self.com/manifest.json<br>
 sudo bubblewrap build<br>
-![Screenshot 2023-12-19 at 3 28 57 AM](https://github.com/sudo-self/project/assets/119916323/ab714da0-0526-4ab1-9a4f-c66b730a9fc9)
-![Screenshot 2023-12-19 at 5 48 31 PM](https://github.com/sudo-self/fork-and-go/assets/119916323/b13d3c82-c0f4-4cd3-8206-c92f660c13d0)
-![Screenshot 2023-12-19 at 5 49 07 PM](https://github.com/sudo-self/fork-and-go/assets/119916323/09682f2f-f139-4e93-a6c6-9aa82c880d05)
+WEBpage
+![Screenshot 2023-12-19 at 3 28 57 AM](https://github.com/sudo-self/project/assets/119916323/ab714da0-0526-4ab1-9a4f-c66b730a9fc9)<br>
+![APK](https://github.com/sudo-self/i-am-webpage/assets/119916323/aae73d57-1d7d-44ae-bfab-8696d87f9f65)
+![Webapp](https://github.com/sudo-self/i-am-webpage/assets/119916323/3d28f12b-1c15-4b51-88ef-8b0c0f95f825)
 
 
 
