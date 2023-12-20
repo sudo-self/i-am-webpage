@@ -1,5 +1,5 @@
 # Hi! I'm&nbsp;<a href="https://webpage.sudo-self.com">Webpage</a>
-<a href="https://webpage.sudo-self.com/manifest.json">PWA</a>
+<a href="https://webpage.sudo-self.com/manifest.json">PWA</a>&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/sudo-self/i-am-webpage/blob/main/app-release-signed.apk">APK</a><hr>
 
 ## webpage --> webapp --> android apk
@@ -17,8 +17,6 @@ sudo sw-precache<br>
 sudo npm i @bubblewrap/cli<br>
 sudo bubblewrap init --manifest https://webpage.sudo-self.com/manifest.json<br>
 sudo bubblewrap build<br>
-WEBpage
-![Screenshot 2023-12-19 at 3 28 57 AM](https://github.com/sudo-self/project/assets/119916323/ab714da0-0526-4ab1-9a4f-c66b730a9fc9)<br>
 ![APK](https://github.com/sudo-self/i-am-webpage/assets/119916323/aae73d57-1d7d-44ae-bfab-8696d87f9f65)
 ![Webapp](https://github.com/sudo-self/i-am-webpage/assets/119916323/3d28f12b-1c15-4b51-88ef-8b0c0f95f825)
 
