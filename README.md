@@ -30,17 +30,10 @@ key store: /android.keystore<br>
 Kay name: PWA<br>
 Password<br>
 
-
-
-
-
-
-
 sudo bubblewrap build
 ![Screenshot 2023-12-19 at 3 28 57 AM](https://github.com/sudo-self/project/assets/119916323/ab714da0-0526-4ab1-9a4f-c66b730a9fc9)
-![Screenshot 2023-12-19 at 5 48 31 PM](https://github.com/sudo-self/fork-and-go/assets/119916323/b13d3c82-c0f4-4cd3-8206-c92f660c13d0)
-![Screenshot 2023-12-19 at 5 49 07 PM](https://github.com/sudo-self/fork-and-go/assets/119916323/09682f2f-f139-4e93-a6c6-9aa82c880d05)
-
+![Webapp](https://github.com/sudo-self/i-am-webpage/assets/119916323/b2c74dd6-565f-4b3a-907e-094265abda12)
+![APK](https://github.com/sudo-self/i-am-webpage/assets/119916323/15de9cf9-1b3e-4dd3-8967-3985a6f5ce8f)
 
 
 myscript.js  
