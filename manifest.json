@@ -1,6 +1,6 @@
 {
-  "name": "fork-and-go by Jesse",
-  "short_name": "fng",
+  "name": "Hi! I am Webpage.",
+  "short_name": "PWA",
   "start_url": "index.html",
   "scope": "./",
   "icons": [
