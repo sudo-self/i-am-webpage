@@ -1,6 +1,7 @@
 # <a href="https://webpage.sudo-self.com">Hi! I'm Webpage</a>
 
-### PWA wrapper android APK
+### <a href="https://webpage.sudo-self.com/manifest.json">PWA wrapper</a>
+### android APK
 sudo touch index.html<br>
 sudo touch style.css<br>
 sudo touch script.js<br>
