@@ -1,0 +1,42 @@
+{
+  "packageId": "com.sudo_self.fng.twa",
+  "host": "fng.sudo-self.com",
+  "name": "fork-and-go by Jesse",
+  "launcherName": "fng",
+  "display": "standalone",
+  "themeColor": "#FFD31D",
+  "themeColorDark": "#000000",
+  "navigationColor": "#000000",
+  "navigationColorDark": "#000000",
+  "navigationDividerColor": "#000000",
+  "navigationDividerColorDark": "#000000",
+  "backgroundColor": "#333333",
+  "enableNotifications": true,
+  "startUrl": "/index.html",
+  "iconUrl": "https://fng.sudo-self.com/1.png",
+  "splashScreenFadeOutDuration": 300,
+  "signingKey": {
+    "path": "/Users/thatonedev/cookai/blog/fng/fork-and-go/android.keystore",
+    "alias": "fngkey"
+  },
+  "appVersionName": "1",
+  "appVersionCode": 1,
+  "shortcuts": [],
+  "generatorApp": "bubblewrap-cli",
+  "webManifestUrl": "https://fng.sudo-self.com/manifest.json",
+  "fallbackType": "customtabs",
+  "features": {},
+  "alphaDependencies": {
+    "enabled": false
+  },
+  "enableSiteSettingsShortcut": true,
+  "isChromeOSOnly": false,
+  "isMetaQuest": false,
+  "fullScopeUrl": "https://fng.sudo-self.com/",
+  "minSdkVersion": 19,
+  "orientation": "default",
+  "fingerprints": [],
+  "additionalTrustedOrigins": [],
+  "retainedBundles": [],
+  "appVersion": "1"
+}
