@@ -1,16 +1,34 @@
-Last login: Tue Dec 19 00:07:48 on ttys002
 
+TERMINAL
 sudo touch index.html
 sudo touch style.css
 sudo touch script.js
 sudo touch manifest.json
 sudo touch myscript.js
-sudo touch README.md
+sudo touch README.md()
 sudo touch 1.png
 
-
+NODE
 sudo npm i
 sudo npm install --global sw-precache
 sw-precache
 sudo npm i @bubblewrap/cli
 sudo bubblewrap init --manifest https://webpage.sudo-self.com/manifest.json
+
+
+
+WRAPPER
+webpage.sudo-self.com
+/index.html
+Hi! I am Webpage
+com.sudo_self.webpage.twa
+1
+standalone
+default
+https://webpage.sudo-self.com/1.png
+()
+n
+n
+webpage
+
+
