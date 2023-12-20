@@ -1,4 +1,5 @@
 # WEBPAGE --> PWA --> APK
+
 ## Make
 sudo touch index.html<br>
 sudo touch style.css<br>
@@ -6,12 +7,15 @@ sudo touch script.js<br>
 sudo touch manifest.json<br>
 sudo touch myscript.js<br>
 sudo touch README.md<br>
-sudo touch 1.png<br>
+
 ## Resources
+added 1.png
+added 2.png
 sudo npm i<br>
 sudo npm install --global sw-precache<br>
 sudo sw-precache<br>
 sudo npm i @bubblewrap/cli<br>
+
 ## Build
 sudo bubblewrap init --manifest https://fng.sudo-self.com/manifest.json<br>
 sudo bubblewrap build
