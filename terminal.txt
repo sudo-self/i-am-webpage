@@ -13,4 +13,4 @@ sudo npm i
 sudo npm install --global sw-precache
 sw-precache
 sudo npm i @bubblewrap/cli
-sudo bubblewrap init --manifest https://fng.sudo-self.com/manifest.json
+sudo bubblewrap init --manifest https://webpage.sudo-self.com/manifest.json
