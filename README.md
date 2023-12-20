@@ -17,6 +17,7 @@ sudo sw-precache<br>
 sudo npm i @bubblewrap/cli<br>
 sudo bubblewrap init --manifest https://webpage.sudo-self.com/manifest.json<br>
 sudo bubblewrap build<br>
+![Screenshot 2023-12-19 at 11 31 30 PM](https://github.com/sudo-self/i-am-webpage/assets/119916323/4b5b890b-64ec-47bd-ba3c-a6609494e9d8)<br>
 ![Screenshot 2023-12-19 at 11 18 06 PM](https://github.com/sudo-self/i-am-webpage/assets/119916323/0fcc1f79-7d03-4d64-8d24-0a3f47beb1c5)<br>
 ![APK](https://github.com/sudo-self/i-am-webpage/assets/119916323/aae73d57-1d7d-44ae-bfab-8696d87f9f65)
 ![Webapp](https://github.com/sudo-self/i-am-webpage/assets/119916323/3d28f12b-1c15-4b51-88ef-8b0c0f95f825)
