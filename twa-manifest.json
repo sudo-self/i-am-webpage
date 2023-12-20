@@ -1,8 +1,8 @@
 {
-  "packageId": "com.sudo_self.fng.twa",
-  "host": "fng.sudo-self.com",
-  "name": "fork-and-go by Jesse",
-  "launcherName": "fng",
+  "packageId": "com.sudo_self.webpage.twa",
+  "host": "webpage.sudo-self.com",
+  "name": "Hi! I am Webpage.",
+  "launcherName": "PWA",
   "display": "standalone",
   "themeColor": "#FFD31D",
   "themeColorDark": "#000000",
@@ -13,26 +13,30 @@
   "backgroundColor": "#333333",
   "enableNotifications": true,
   "startUrl": "/index.html",
-  "iconUrl": "https://fng.sudo-self.com/1.png",
+  "iconUrl": "https://webpage.sudo-self.com/1.png",
   "splashScreenFadeOutDuration": 300,
   "signingKey": {
-    "path": "/Users/thatonedev/cookai/blog/fng/fork-and-go/android.keystore",
-    "alias": "fngkey"
+    "path": "/Users/thatonedev/Downloads/i-am-webpage-main/android.keystore",
+    "alias": "PWA"
   },
   "appVersionName": "1",
   "appVersionCode": 1,
   "shortcuts": [],
   "generatorApp": "bubblewrap-cli",
-  "webManifestUrl": "https://fng.sudo-self.com/manifest.json",
+  "webManifestUrl": "https://webpage.sudo-self.com/manifest.json",
   "fallbackType": "customtabs",
-  "features": {},
+  "features": {
+    "playBilling": {
+      "enabled": true
+    }
+  },
   "alphaDependencies": {
-    "enabled": false
+    "enabled": true
   },
   "enableSiteSettingsShortcut": true,
   "isChromeOSOnly": false,
   "isMetaQuest": false,
-  "fullScopeUrl": "https://fng.sudo-self.com/",
+  "fullScopeUrl": "https://webpage.sudo-self.com/",
   "minSdkVersion": 19,
   "orientation": "default",
   "fingerprints": [],
