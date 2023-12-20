@@ -7,11 +7,9 @@ sudo touch manifest.json<br>
 sudo touch myscript.js<br>
 sudo touch README.md<br>
 sudo touch 1.png<br>
-
-
 sudo npm i<br>
 sudo npm install --global sw-precache<br>
-sw-precache<br>
+sudo sw-precache<br>
 sudo npm i @bubblewrap/cli<br>
 sudo bubblewrap init --manifest https://fng.sudo-self.com/manifest.json<br>
 sudo bubblewrap build
