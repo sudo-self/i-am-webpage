@@ -1,4 +1,4 @@
-# WEBPAGE to APK
+# WEBPAGE --> PWA --> APK
 
 sudo touch index.html<br>
 sudo touch style.css<br>
