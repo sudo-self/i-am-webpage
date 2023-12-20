@@ -2,7 +2,6 @@
 <a href="https://webpage.sudo-self.com/manifest.json">PWA</a>&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/sudo-self/i-am-webpage/blob/main/app-release-signed.apk">APK</a><hr>
 
-## webpage --> webapp --> apk
 ### webpage
 sudo touch index.html<br>
 sudo touch style.css<br>
